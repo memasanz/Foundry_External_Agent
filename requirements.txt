@@ -1,0 +1,7 @@
+azure-ai-projects>=2.3.0
+azure-identity>=1.17.0
+ipykernel
+jupyterlab
+microsoft-opentelemetry
+python-dotenv
+
